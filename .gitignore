@@ -8,3 +8,5 @@ todos.txt
 /dist/
 /gui.spec
 /bonus/camera-photos/
+
+__pycache__
